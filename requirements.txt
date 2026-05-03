@@ -1,0 +1,8 @@
+requests
+pandas
+gradio
+beautifulsoup4
+pypdf
+python-docx
+openpyxl
+google-genai
